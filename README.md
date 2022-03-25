@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Arkadius Derry 
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence,  Software Development and Mobile Development 
-- 🌱 I’m currently learning Python, C Programming, Java and Dart
+- 🌱 I’m currently learning Python, C Programming
 - 💞️ I’m looking forward to learning more 
 - 📫 How to reach me; @ArkadiusDerry on Twitter, Peter Derry Jnr on Facebook and derrypeter08@gmail.com 
 
